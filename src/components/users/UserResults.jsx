@@ -4,7 +4,6 @@ import UserItem from "../users/UserItem";
 
 function UserResults() {
   const [users, setUsers] = useState([]);
-
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
