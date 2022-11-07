@@ -6,7 +6,6 @@ function Home() {
     <>
       {/* SEARCH COMPONENT */}
       <UserResults />
-      {/* {process.env.REACT_APP_GITHUB_TOKEN} */}
     </>
   );
 }
