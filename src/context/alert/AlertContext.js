@@ -1,4 +1,4 @@
-import { createContext, useDeferredValue, useReducer } from "react";
+import { createContext, useReducer } from "react";
 import alertReducer from "./AlertReducer";
 
 const AlertContext = createContext();
